@@ -1,0 +1,16 @@
+C:\1Программирование\work1\FileDownloaderWinForms\FileDownloaderWinForms\bin\Debug\net9.0-windows\FileDownloaderWinForms.exe
+C:\1Программирование\work1\FileDownloaderWinForms\FileDownloaderWinForms\bin\Debug\net9.0-windows\FileDownloaderWinForms.deps.json
+C:\1Программирование\work1\FileDownloaderWinForms\FileDownloaderWinForms\bin\Debug\net9.0-windows\FileDownloaderWinForms.runtimeconfig.json
+C:\1Программирование\work1\FileDownloaderWinForms\FileDownloaderWinForms\bin\Debug\net9.0-windows\FileDownloaderWinForms.dll
+C:\1Программирование\work1\FileDownloaderWinForms\FileDownloaderWinForms\bin\Debug\net9.0-windows\FileDownloaderWinForms.pdb
+C:\1Программирование\work1\FileDownloaderWinForms\FileDownloaderWinForms\obj\Debug\net9.0-windows\FileDownloaderWinForms.Form1.resources
+C:\1Программирование\work1\FileDownloaderWinForms\FileDownloaderWinForms\obj\Debug\net9.0-windows\FileDownloaderWinForms.csproj.GenerateResource.cache
+C:\1Программирование\work1\FileDownloaderWinForms\FileDownloaderWinForms\obj\Debug\net9.0-windows\FileDownloaderWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\1Программирование\work1\FileDownloaderWinForms\FileDownloaderWinForms\obj\Debug\net9.0-windows\FileDownloaderWinForms.AssemblyInfoInputs.cache
+C:\1Программирование\work1\FileDownloaderWinForms\FileDownloaderWinForms\obj\Debug\net9.0-windows\FileDownloaderWinForms.AssemblyInfo.cs
+C:\1Программирование\work1\FileDownloaderWinForms\FileDownloaderWinForms\obj\Debug\net9.0-windows\FileDownloaderWinForms.csproj.CoreCompileInputs.cache
+C:\1Программирование\work1\FileDownloaderWinForms\FileDownloaderWinForms\obj\Debug\net9.0-windows\FileDownloaderWinForms.dll
+C:\1Программирование\work1\FileDownloaderWinForms\FileDownloaderWinForms\obj\Debug\net9.0-windows\refint\FileDownloaderWinForms.dll
+C:\1Программирование\work1\FileDownloaderWinForms\FileDownloaderWinForms\obj\Debug\net9.0-windows\FileDownloaderWinForms.pdb
+C:\1Программирование\work1\FileDownloaderWinForms\FileDownloaderWinForms\obj\Debug\net9.0-windows\FileDownloaderWinForms.genruntimeconfig.cache
+C:\1Программирование\work1\FileDownloaderWinForms\FileDownloaderWinForms\obj\Debug\net9.0-windows\ref\FileDownloaderWinForms.dll
